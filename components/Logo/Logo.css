@@ -1,0 +1,7 @@
+.Tilt {
+	background:linear-gradient(90deg, #f572a8 0%, #84a9f3 100%);
+	align-self: start;
+	justify-content: start;
+	width: 150px;
+	height: 150px;
+}
